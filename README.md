@@ -1,5 +1,5 @@
 
-<img  alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="100%" height="400px"/>
+<img src="cover.png" height="400" width="100%" />
 
 
 ## Hey 👋, I'm Daniyal Shah!
