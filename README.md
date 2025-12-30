@@ -1,5 +1,4 @@
 
-<img src="cover.png" height="400" width="100%" />
 
 
 ## Hey 👋, I'm Daniyal Shah!
